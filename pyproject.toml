@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "awesome-package"
+name = "awesome-app"
 version = "0.1.0"
 description = "Illustration"
 authors = ["Erik De Smedt <edesmedt@blockstream.com>"]
